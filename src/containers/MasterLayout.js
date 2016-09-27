@@ -34,7 +34,7 @@ class MasterLayout extends Component {
           <Col xs={ 8 }>
             <div>&raquo; Click a tile to select it (solid border)</div>
             <div>&raquo; Click it again to select its wrapper (dashed border)</div>
-            <div>&raquo; Action icons appear depending on what's selected</div>
+            <div>&raquo; Action icons appear depending on what&#39;s selected</div>
             <div>&raquo; To add sibling tiles, do it at the wrapper level</div>
           </Col>
           <Col xs={ 4 }>
